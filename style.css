@@ -1,0 +1,63 @@
+* {
+  outline: 1px dashed blue;
+  padding: 0;
+  margin: 0;
+}
+#base0 {
+  display: block;
+  left: 50%;
+  margin: 0 auto;
+  width: 600px;
+  height: 600px;
+  background-color: red;
+}
+.half {
+  display: inline-block;
+  width: 300px;
+  height: 600px;
+  background-color: green;
+}
+#left {
+  float: left;
+}
+.quad {
+  display: block;
+  width: 300px;
+  height: 300px;
+}
+#quad_right_top {
+  background-color: blue;
+}
+.robo-bear-paw {
+  display: inline-block;
+  background-color: grey;
+  width: 260px;
+  height: 120px;
+  left: 50%;
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.cir {
+  display: inline-block;
+  margin: 27px;
+  height: 70px;
+  width: 70px;
+  border-radius: 100px;
+  background-color: red;
+}
+.row {
+  height: 120px;
+  widows: 70px;
+}
+.box {
+  width: 10px;
+  height: 10px;
+  background-color: purple;
+}
+.center {
+  display: block;
+  left: 50%;
+  margin: 0 auto;
+
+}
